@@ -1,13 +1,22 @@
 # slides-taller-github-Robotics4Rookies
 
-![poster](assets/poster.png)
+![promotional banner](assets/promo.jpeg)
 
 ## 🤔 Sobre el taller
+
+![poster](assets/poster.png)
+
 Taller sobre Git y GitHub - Robotics4Rookies. 14 de Enero 2021
 
+## 📹 Videos
 
+- [GitHub 4 Rookies | GitHub con Ulises Gascon](https://youtu.be/3Z4vRZ0rjDg?t=211)
 
-## Recursos
+## 📚 Presentaciones
+
+- [Slides | Taller de github para Robotics4Rookies](https://ulisesgascon.github.io/slides-taller-github-Robotics4Rookies)
+
+## 🗂 Recursos
 ### Github
 
 #### Octocats
