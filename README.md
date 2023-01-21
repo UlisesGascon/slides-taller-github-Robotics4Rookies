@@ -14,7 +14,7 @@ Taller sobre Git y GitHub - Robotics4Rookies. 14 de Enero 2021
 
 ## 📚 Presentaciones
 
-- [Slides | Taller de github para Robotics4Rookies](https://ulisesgascon.github.io/slides-taller-github-Robotics4Rookies)
+- [Slides | Taller de github para Robotics4Rookies](https://slides.ulisesgascon.com/github-workshop-for-robotics4rookies/)
 
 ## 🗂 Recursos
 ### Github
